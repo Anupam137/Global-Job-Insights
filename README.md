@@ -6,6 +6,7 @@ This repository contains the dataset and visualization dashboard for the project
 The dataset is available in the file https://github.com/Anupam137/Global-Job-Insights/blob/main/Job%20survey%20dataset.xlsx
 
 --Accessing the Visualization Dashboard:
+
 1.The visualization dashboard can be viewed using the Power BI app.
 
 2.Download the file named [Job Survey Visualisation.pbix] from the repository.
