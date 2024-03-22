@@ -1,4 +1,10 @@
-# Global-Job-Insights
+# Global-Job-Insights/ Road-Safety-Dashboard
+
+**As part of a challenge for IISc Bangalore, I created a comprehensive dashboard for analyzing road accident data.
+Used Power BI to import, clean, and visualize the road accident dataset ("road_accident.xlsx") provided for the challenge.
+Implemented data cleaning techniques, including creating a new column for date and time management and defining multiple measures for calculations and visualizations.
+Conducted exploratory data analysis (EDA) to uncover trends, patterns, and correlations related to accident severity, types, locations, and contributing factors like weather conditions and road types.
+Designed interactive visualizations such as bar charts, pie charts, maps, and trend lines to represent the data effectively.**
 
 --Description:
 This repository contains the dataset and visualization dashboard for the project. The dataset can be accessed and explored, and the visualization dashboard can be viewed using the Power BI app.
